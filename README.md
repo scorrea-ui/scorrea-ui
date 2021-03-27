@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @scorrea-ui
+- 👀 I’m interested in dominating the world.... Just kidding just want to make the web a better and accessible place for all.
+- 🌱 I’m currently learning some back end.
+- 💞️ I’m looking to collaborate on open source projects built and/or using react
+- 📫 How to reach me: scorrea.dev@gmail.com
