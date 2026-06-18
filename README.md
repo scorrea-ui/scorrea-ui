@@ -1,6 +1,6 @@
 ## Santiago Correa
 
-Senior full-stack engineer with 9+ years building consumer-facing web products at scale.
+Senior full-stack engineer with 8+ years building consumer-facing web products at scale.
 
 Currently at **Statista**, owning the registration and conversion funnel for 1M+ monthly users
 where latency and reliability are direct drivers of whether people complete what they came to do.
